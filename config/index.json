@@ -1,0 +1,4 @@
+{
+	"dbUri": "mongodb://localhost/ContentClub",
+    "jwtSecret": "some phrase"
+}

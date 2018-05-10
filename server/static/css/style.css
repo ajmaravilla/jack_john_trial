@@ -1,0 +1,97 @@
+/*div { border: solid; }*/
+
+/*p.left,
+a.left {
+	text-align: left;
+}
+
+p.right,
+p.right {
+	text-align: right;
+}*/
+
+
+
+/*.join-board-form {
+	color: black;
+}*/
+
+/*.circle {
+	border-radius: 50%;	
+	width: 60px;
+	height: 60px; 
+	color: white;
+	border: solid;
+}*/
+
+/*#logo {
+	width: 60px;
+	height: auto;
+	margin-top: -10px;
+}*/
+
+/* ----------- */
+/*  DASHBOARD  */
+/* ----------- */
+.board-title,
+.board-info, 
+.board-username {
+	color: white;
+	text-align: left;
+	margin: 10px;
+}
+
+.board-title {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.board-username {
+	color: tomato;
+}
+
+.board-body-text {
+	width: 200px;
+	height: 150px;
+}
+
+.img-art {
+	height: 350px;
+	width: auto;
+}
+
+.img-boxart {
+	height: 350px;
+	width: 200px;
+	overflow: hidden;
+	margin: 5px;
+}
+
+
+.dashboard-boards {
+	/*width: vw;*/
+	height: 500px;
+	background-color: darkgrey;
+	margin: 2px;
+	/*border-left: solid;*/
+	/*border-right: solid;*/
+	/*border-width: .05px;*/
+	transition: .25s;
+	vertical-align: center;
+	text-align: center;
+	line-height: 400px;
+}
+
+.dashboard-boards:hover {
+	font-size: 20px;
+	top: -10px;
+	height: 520px;
+	/*line-height: 450px;*/
+	/*width: 200px;*/
+	background-color: mistyrose;
+	transition: .5s;
+	/*color: #2f3f4f;*/
+	z-index: 3;
+
+} 
